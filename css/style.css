@@ -1,0 +1,44 @@
+body {
+    margin: 0;
+    font-family: "Google Sans", sans-serif;
+    background-color: teal;
+     font-family: "Fira Code", monospace;
+}
+
+.topbanner {
+    background-color: #6579d3;
+    padding: 12px;
+    text-align: center;
+    color: rgb(253, 253, 253);
+    font-weight: bold;
+    font-size: 18px;
+}
+
+
+.banner {
+    background-color: #17f835;
+    padding: 12px;
+    text-align: center;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.banner a {
+    color: tomato;
+    text-decoration: none;
+    margin: 0 25px;
+    font-weight: bold;
+    transition: color 0.3s ease, opacity 0.3s ease; 
+}
+
+
+.banner a:hover {
+    color: #53d1b1; 
+    opacity: 0.85;
+    transition: color 0.3s ease, opacity 0.3s ease;
+    
+}
+
+
+
+
